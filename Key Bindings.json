@@ -1,0 +1,17 @@
+[
+	{ "keys": ["F3"], "command": "quick_create_command" },
+	{ "keys": ["Shift+F3"], "command": "quick_execute_command" },
+	{ "keys": ["Ctrl+F3"], "command": "quick_execute_existing_command" },
+
+	{ "keys": ["Ctrl+1"], "command": "quick_set_command1" },
+	{ "keys": ["Ctrl+2"], "command": "quick_set_command2" },
+	{ "keys": ["Ctrl+3"], "command": "quick_set_command3" },
+	{ "keys": ["Ctrl+4"], "command": "quick_set_command4" },
+	{ "keys": ["Ctrl+5"], "command": "quick_set_command5" },
+
+	{ "keys": ["Ctrl+1"], "command": "quick_execute_existing_command1" },
+	{ "keys": ["Ctrl+2"], "command": "quick_execute_existing_command2" },
+	{ "keys": ["Ctrl+3"], "command": "quick_execute_existing_command3" },
+	{ "keys": ["Ctrl+4"], "command": "quick_execute_existing_command4" },
+	{ "keys": ["Ctrl+5"], "command": "quick_execute_existing_command5" },
+]
